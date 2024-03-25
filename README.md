@@ -1,3 +1,3 @@
-# Web App Dev 2: Web API Labs
+# react-basics-labs
 
 Practical labs for the WAD2 module
